@@ -2,7 +2,6 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-const URL = 'https://praktyki.lodz.pl/en/oferty?practiceType=holiday_internship';
 const DATA_FILE = path.join(__dirname, 'offers.json');
 const ENV_FILE = path.join(__dirname, '.env');
 
@@ -37,15 +36,14 @@ function fetchHtml(url) {
 function parseOffers(html) {
     const offers = [];
     
-    // Look for offer cards in the HTML
-    // The site uses a pattern with offer data
-    const offerRegex = /<a[^>]*href="([^"]*\/oferty\/[^"]*)"[^>]*>[\s\S]*?<h[1-6][^>]*>([^<]*)<\/h[1-6]>[\s\S]*?<\/a>/gi;
+    // Look for offer cards in the HTML - updated regex for the site structure
+    const offerRegex = /<a[^>]*href="([^"]*\/(?:oferty|offers)\/[^"]*)"[^>]*>[\s\S]*?<h[1-6][^>]*>([^<]*)<\/h[1-6]>[\s\S]*?<\/a>/gi;
     let match;
     
     while ((match = offerRegex.exec(html)) !== null) {
         const url = match[1].startsWith('http') ? match[1] : `https://praktyki.lodz.pl${match[1]}`;
         const title = match[2].trim();
-        if (title && url) {
+        if (title && url && title.length > 3) {
             offers.push({ id: url, title, url });
         }
     }
@@ -71,6 +69,51 @@ function parseOffers(html) {
     // Remove duplicates by URL
     const unique = {};
     offers.forEach(o => unique[o.url] = o);
+    return Object.values(unique);
+}
+
+async function fetchAllOffers() {
+    const allOffers = [];
+    let page = 1;
+    const maxPages = 20; // Safety limit
+    
+    while (page <= maxPages) {
+        const url = `https://praktyki.lodz.pl/en/offers?practiceType=holiday_internship&page=${page}`;
+        console.log(`Fetching page ${page}...`);
+        
+        try {
+            const html = await fetchHtml(url);
+            const offers = parseOffers(html);
+            
+            if (offers.length === 0) {
+                console.log(`No more offers on page ${page}, stopping.`);
+                break;
+            }
+            
+            console.log(`Found ${offers.length} offers on page ${page}`);
+            allOffers.push(...offers);
+            
+            // Check if there's a next page by looking for pagination
+            const hasNextPage = html.includes(`page=${page + 1}`) || 
+                               html.includes(`"page":${page + 1}`) ||
+                               html.includes(`> ${page + 1} <`) ||
+                               html.includes(`>${page + 1}<`);
+            
+            if (!hasNextPage && page > 1) {
+                console.log('No next page found, stopping.');
+                break;
+            }
+            
+            page++;
+        } catch (err) {
+            console.error(`Error fetching page ${page}:`, err.message);
+            break;
+        }
+    }
+    
+    // Remove duplicates across all pages
+    const unique = {};
+    allOffers.forEach(o => unique[o.url] = o);
     return Object.values(unique);
 }
 
@@ -109,10 +152,9 @@ function sendTelegram(message) {
 }
 
 async function main() {
-    console.log('Fetching offers...');
-    const html = await fetchHtml(URL);
-    const currentOffers = parseOffers(html);
-    console.log(`Found ${currentOffers.length} offers`);
+    console.log('Fetching all offers...');
+    const currentOffers = await fetchAllOffers();
+    console.log(`Total unique offers: ${currentOffers.length}`);
     
     const previousOffers = loadPreviousOffers();
     const previousUrls = new Set(previousOffers.map(o => o.url));
