@@ -1,0 +1,12 @@
+{
+  "name": "praktyki-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for praktyki.lodz.pl with Telegram notifications",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
