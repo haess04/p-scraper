@@ -1,5 +1,10 @@
 [
   {
+    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-zakupow_-strykow",
+    "title": "HOLIDAY INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-zakupow_-strykow"
+  },
+  {
     "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-rachunkowosci-47456327-d6c5-45fc-9038-140334b9247d",
     "title": "HOLIDAY INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-rachunkowosci-47456327-d6c5-45fc-9038-140334b9247d"
@@ -850,6 +855,11 @@
     "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-windykacji"
   },
   {
+    "id": "https://praktyki.lodz.pl/en/oferty/internship-in-collection-team",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/internship-in-collection-team"
+  },
+  {
     "id": "https://praktyki.lodz.pl/en/oferty/dzial-testow-program-praktyk-letnich-2026",
     "title": "HOLIDAY INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/dzial-testow-program-praktyk-letnich-2026"
@@ -858,6 +868,11 @@
     "id": "https://praktyki.lodz.pl/en/oferty/dzial-realizacji-zamowien-program-praktyk-letnich-2026",
     "title": "HOLIDAY INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/dzial-realizacji-zamowien-program-praktyk-letnich-2026"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/stazysta-stazystka-ds-trade-marketingu",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/stazysta-stazystka-ds-trade-marketingu"
   },
   {
     "id": "https://praktyki.lodz.pl/en/oferty/dzial-transportu-i-logistyki-program-praktyk-letnich-2026",
@@ -870,89 +885,69 @@
     "url": "https://praktyki.lodz.pl/en/oferty/dzial-administracji-gospodarki-magazynowej-program-praktyk-letnich-2026"
   },
   {
+    "id": "https://praktyki.lodz.pl/en/oferty/platne-praktyki-wakacyjne-w-fabryce-p-g-gillette-276a7292-0bb4-4f7b-b0d8-623ba469c84f",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/platne-praktyki-wakacyjne-w-fabryce-p-g-gillette-276a7292-0bb4-4f7b-b0d8-623ba469c84f"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-biurze-ksiegowo-konsultingowym",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-biurze-ksiegowo-konsultingowym"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-procesowania-zamowien-order-management-cb592658-390c-4229-a31a-0fe6d9d2c343",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-procesowania-zamowien-order-management-cb592658-390c-4229-a31a-0fe6d9d2c343"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/platne-praktyki-w-oparciu-o-umowe-zlecenie-w-dziale-sprzedazy-odczynnikow-i-materialow-referencyjnych",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/platne-praktyki-w-oparciu-o-umowe-zlecenie-w-dziale-sprzedazy-odczynnikow-i-materialow-referencyjnych"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktyki-ai-specjalista",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktyki-ai-specjalista"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktyki-frontend-developer",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktyki-frontend-developer"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/hr-traineeship-program",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/hr-traineeship-program"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-elektrycznych",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-elektrycznych"
+  },
+  {
     "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-konstrukcyjnym-ad922b80-b388-489e-b110-91c5cb2b533d",
     "title": "HOLIDAY INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-konstrukcyjnym-ad922b80-b388-489e-b110-91c5cb2b533d"
   },
   {
-    "id": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-dziale-technicznym-3ca4d203-38e6-493e-b8f1-6c99f35d530f",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-dziale-technicznym-3ca4d203-38e6-493e-b8f1-6c99f35d530f"
+    "id": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych-48858340-f4eb-4653-89f7-1edf122de514",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych-48858340-f4eb-4653-89f7-1edf122de514"
   },
   {
-    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-centrum-rekrutacji-i-rozwoju-kadr",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-centrum-rekrutacji-i-rozwoju-kadr"
+    "id": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych"
   },
   {
-    "id": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-zespole-projektowania-linii-elektroenergetycznych",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-zespole-projektowania-linii-elektroenergetycznych"
+    "id": "https://praktyki.lodz.pl/en/oferty/internship-in-customer-care-with-french",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/internship-in-customer-care-with-french"
   },
   {
-    "id": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-zespole-projektowania-stacji-elektroenergetycznych",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-zespole-projektowania-stacji-elektroenergetycznych"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-hse-bhp",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-hse-bhp"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-planowania-produkcji",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-planowania-produkcji"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-rozwoju-sprzedazy",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-rozwoju-sprzedazy"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-pionie-marek-wlasnych",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-pionie-marek-wlasnych"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-logistyki-magazynowej-0ab51dfc-1e63-45b7-9eaf-0fdb29500946",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-logistyki-magazynowej-0ab51dfc-1e63-45b7-9eaf-0fdb29500946"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-inzynieryjnym-logistyki-i-utrzymania-ruchu",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-inzynieryjnym-logistyki-i-utrzymania-ruchu"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-customer-service-logistic",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-customer-service-logistic"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-kontroli-jakosci",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-kontroli-jakosci"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-as-t",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-as-t"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-gqs",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-gqs"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-technologii-pcs",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-technologii-pcs"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-zakupow-bezposrednich",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-zakupow-bezposrednich"
+    "id": "https://praktyki.lodz.pl/en/oferty/internship-in-customer-care-with-german",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/internship-in-customer-care-with-german"
   },
   {
     "id": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-engineering",
