@@ -1,5 +1,10 @@
 [
   {
+    "id": "https://praktyki.lodz.pl/en/oferty/ship-to-internship",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/ship-to-internship"
+  },
+  {
     "id": "https://praktyki.lodz.pl/en/oferty/business-analyst-design-to-value-staz-wakacyjny-2026",
     "title": "HOLIDAY INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/business-analyst-design-to-value-staz-wakacyjny-2026"
@@ -113,11 +118,6 @@
     "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-hr-c00f5201-e9aa-4fa5-acb4-4f22d2b12da0",
     "title": "HOLIDAY INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-hr-c00f5201-e9aa-4fa5-acb4-4f22d2b12da0"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/tester-ka-automatyzujacy-a-staz-wakacyjny-2026",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/tester-ka-automatyzujacy-a-staz-wakacyjny-2026"
   },
   {
     "id": "https://praktyki.lodz.pl/en/oferty/konstruktor-elektryk-k-m-n-staz-wakacyjny-2026",
