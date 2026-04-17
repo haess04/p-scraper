@@ -1,15 +1,5 @@
 [
   {
-    "id": "https://praktyki.lodz.pl/en/oferty/stazysta-stazystka-w-dziale-obslugi-klienta-i-koordynacji",
-    "title": "INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/stazysta-stazystka-w-dziale-obslugi-klienta-i-koordynacji"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/financial-internship-in-collections-team-german-speaker",
-    "title": "INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/financial-internship-in-collections-team-german-speaker"
-  },
-  {
     "id": "https://praktyki.lodz.pl/en/oferty/staz-w-centralnej-dyspozytorni-przy-inzynierze-utrzymania-ruchu",
     "title": "HOLIDAY INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/staz-w-centralnej-dyspozytorni-przy-inzynierze-utrzymania-ruchu"
@@ -28,11 +18,6 @@
     "id": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-staz-w-dziale-bpa-globalnych-systemow-jakosci-business-planning-analysis-global-quality-systems",
     "title": "HOLIDAY INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-staz-w-dziale-bpa-globalnych-systemow-jakosci-business-planning-analysis-global-quality-systems"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/ship-to-internship",
-    "title": "INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/ship-to-internship"
   },
   {
     "id": "https://praktyki.lodz.pl/en/oferty/business-analyst-design-to-value-staz-wakacyjny-2026",
@@ -118,6 +103,21 @@
     "id": "https://praktyki.lodz.pl/en/oferty/stazysta-w-sekcji-wdrozen-projektow-magazynowych-8403ab1f-32a0-470f-88cf-0b928af2c6d2",
     "title": "HOLIDAY INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/stazysta-w-sekcji-wdrozen-projektow-magazynowych-8403ab1f-32a0-470f-88cf-0b928af2c6d2"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/stazystka-stazysta-dziekanat-oddzialu-pielegniarstwa-i-poloznictwa",
+    "title": "HOLIDAY INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/stazystka-stazysta-dziekanat-oddzialu-pielegniarstwa-i-poloznictwa"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/stazystka-stazysta-dziekanat-oddzialu-stomatologicznego-uniwersytetu-medycznego-w-lodzi",
+    "title": "HOLIDAY INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/stazystka-stazysta-dziekanat-oddzialu-stomatologicznego-uniwersytetu-medycznego-w-lodzi"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/stazystka-stazysta-inspektorat-bhp",
+    "title": "HOLIDAY INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/stazystka-stazysta-inspektorat-bhp"
   },
   {
     "id": "https://praktyki.lodz.pl/en/oferty/medyczne-laboratorium-onkologii-i-hematologii-dzieciecej-oncolab-im-wosp-w-lodzi",
@@ -400,11 +400,6 @@
     "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-kadr-i-plac-e9edb108-fdcd-4c11-b255-35129b5adab1"
   },
   {
-    "id": "https://praktyki.lodz.pl/en/oferty/internship-in-order-management-c942a27a-3980-492b-a555-9a22bf17e976",
-    "title": "INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/internship-in-order-management-c942a27a-3980-492b-a555-9a22bf17e976"
-  },
-  {
     "id": "https://praktyki.lodz.pl/en/oferty/transaction-processing-trainee-p2p-t-e",
     "title": "HOLIDAY INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/transaction-processing-trainee-p2p-t-e"
@@ -458,6 +453,31 @@
     "id": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-dziale-ochrony-srodowiska-i-laboratorium-sekcja-pomiarow-emisyjnych",
     "title": "HOLIDAY INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-dziale-ochrony-srodowiska-i-laboratorium-sekcja-pomiarow-emisyjnych"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-wydziale-inzynierii-produkcji-sekcja-akpia",
+    "title": "HOLIDAY INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-wydziale-inzynierii-produkcji-sekcja-akpia"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-dziale-ochrony-srodowiska-i-laboratorium-sekcja-badan-chemicznych-i-srodowiskowych",
+    "title": "HOLIDAY INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-dziale-ochrony-srodowiska-i-laboratorium-sekcja-badan-chemicznych-i-srodowiskowych"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-dziale-bhp-i-ppoz-363ebc0b-9b40-414d-b817-c8a7c44200b0",
+    "title": "HOLIDAY INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-dziale-bhp-i-ppoz-363ebc0b-9b40-414d-b817-c8a7c44200b0"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-dziale-ochrony-srodowiska-i-laboratorium-sekcja-badan-i-paliw-42d73907-2023-42e5-aef0-6eba6d1ba0bf",
+    "title": "HOLIDAY INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-dziale-ochrony-srodowiska-i-laboratorium-sekcja-badan-i-paliw-42d73907-2023-42e5-aef0-6eba6d1ba0bf"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-w-dziale-jakosci-sekcja-laboratorium",
+    "title": "HOLIDAY INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-w-dziale-jakosci-sekcja-laboratorium"
   },
   {
     "id": "https://praktyki.lodz.pl/en/oferty/platny-staz-w-zespole-zarzadzania-projektami-dekarbonizacyjnymi-9418ffcb-dc25-46a9-b878-b217d1fc419e",
