@@ -1,5 +1,15 @@
 [
   {
+    "id": "https://praktyki.lodz.pl/en/oferty/stazysta-stazystka-w-dziale-obslugi-klienta-i-koordynacji",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/stazysta-stazystka-w-dziale-obslugi-klienta-i-koordynacji"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/financial-internship-in-collections-team-german-speaker",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/financial-internship-in-collections-team-german-speaker"
+  },
+  {
     "id": "https://praktyki.lodz.pl/en/oferty/staz-w-centralnej-dyspozytorni-przy-inzynierze-utrzymania-ruchu",
     "title": "HOLIDAY INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/staz-w-centralnej-dyspozytorni-przy-inzynierze-utrzymania-ruchu"
@@ -18,6 +28,11 @@
     "id": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-staz-w-dziale-bpa-globalnych-systemow-jakosci-business-planning-analysis-global-quality-systems",
     "title": "HOLIDAY INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-staz-w-dziale-bpa-globalnych-systemow-jakosci-business-planning-analysis-global-quality-systems"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/ship-to-internship",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/ship-to-internship"
   },
   {
     "id": "https://praktyki.lodz.pl/en/oferty/business-analyst-design-to-value-staz-wakacyjny-2026",
@@ -103,21 +118,6 @@
     "id": "https://praktyki.lodz.pl/en/oferty/stazysta-w-sekcji-wdrozen-projektow-magazynowych-8403ab1f-32a0-470f-88cf-0b928af2c6d2",
     "title": "HOLIDAY INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/stazysta-w-sekcji-wdrozen-projektow-magazynowych-8403ab1f-32a0-470f-88cf-0b928af2c6d2"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/stazystka-stazysta-dziekanat-oddzialu-pielegniarstwa-i-poloznictwa",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/stazystka-stazysta-dziekanat-oddzialu-pielegniarstwa-i-poloznictwa"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/stazystka-stazysta-dziekanat-oddzialu-stomatologicznego-uniwersytetu-medycznego-w-lodzi",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/stazystka-stazysta-dziekanat-oddzialu-stomatologicznego-uniwersytetu-medycznego-w-lodzi"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/stazystka-stazysta-inspektorat-bhp",
-    "title": "HOLIDAY INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/stazystka-stazysta-inspektorat-bhp"
   },
   {
     "id": "https://praktyki.lodz.pl/en/oferty/medyczne-laboratorium-onkologii-i-hematologii-dzieciecej-oncolab-im-wosp-w-lodzi",
@@ -1178,6 +1178,11 @@
     "id": "https://praktyki.lodz.pl/en/oferty/junior-account-manager-telefoniczna-obsluga-klienta",
     "title": "HOLIDAY INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/junior-account-manager-telefoniczna-obsluga-klienta"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/testowa-oferta-62ae56ef-871a-4fac-b611-c331bb9129da",
+    "title": "HOLIDAY INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/testowa-oferta-62ae56ef-871a-4fac-b611-c331bb9129da"
   },
   {
     "id": "https://praktyki.lodz.pl/en/oferty/intern-software-engineer-for-ai-2d88629a-46ba-4318-b072-bb7de0e1752f",
