@@ -25,9 +25,19 @@
     "url": "https://praktyki.lodz.pl/en/oferty/financial-internship-in-collections-team-german-speaker"
   },
   {
+    "id": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-staz-w-dziale-bpa-globalnych-systemow-jakosci-business-planning-analysis-global-quality-systems",
+    "title": "HOLIDAY INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-staz-w-dziale-bpa-globalnych-systemow-jakosci-business-planning-analysis-global-quality-systems"
+  },
+  {
     "id": "https://praktyki.lodz.pl/en/oferty/ship-to-internship",
     "title": "INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/ship-to-internship"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/cloud-engineer-intern-bdaa-big-data-mlodzi-w-lodzi-2026",
+    "title": "HOLIDAY INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/cloud-engineer-intern-bdaa-big-data-mlodzi-w-lodzi-2026"
   },
   {
     "id": "https://praktyki.lodz.pl/en/oferty/platne-praktyki-wakacyjne-w-fabryce-p-g-gillette-276a7292-0bb4-4f7b-b0d8-623ba469c84f",
@@ -108,15 +118,5 @@
     "id": "https://praktyki.lodz.pl/en/oferty/programista-java-javascript-40f86eb8-5541-4060-908a-4a7a1890ca8d",
     "title": "PRACTICE",
     "url": "https://praktyki.lodz.pl/en/oferty/programista-java-javascript-40f86eb8-5541-4060-908a-4a7a1890ca8d"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/technical-sales-specialist",
-    "title": "INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/technical-sales-specialist"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/intern-research-engineer-ai",
-    "title": "INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/intern-research-engineer-ai"
   }
 ]
