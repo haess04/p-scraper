@@ -45,11 +45,6 @@
     "url": "https://praktyki.lodz.pl/en/oferty/stazysta-stazystka-w-dziale-obslugi-klienta-i-koordynacji"
   },
   {
-    "id": "https://praktyki.lodz.pl/en/oferty/financial-internship-in-collections-team-german-speaker",
-    "title": "INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/financial-internship-in-collections-team-german-speaker"
-  },
-  {
     "id": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-staz-w-dziale-bpa-globalnych-systemow-jakosci-business-planning-analysis-global-quality-systems",
     "title": "INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-staz-w-dziale-bpa-globalnych-systemow-jakosci-business-planning-analysis-global-quality-systems"
@@ -118,5 +113,10 @@
     "id": "https://praktyki.lodz.pl/en/oferty/technical-sales-specialist",
     "title": "INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/technical-sales-specialist"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/intern-software-engineer-for-ai-2d88629a-46ba-4318-b072-bb7de0e1752f",
+    "title": "HOLIDAY INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/intern-software-engineer-for-ai-2d88629a-46ba-4318-b072-bb7de0e1752f"
   }
 ]
