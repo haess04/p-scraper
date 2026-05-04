@@ -1,8 +1,28 @@
 [
   {
+    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-zespole-sieci-i-wezlow-cieplnych",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-zespole-sieci-i-wezlow-cieplnych"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-customer-service",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-customer-service"
+  },
+  {
     "id": "https://praktyki.lodz.pl/en/oferty/praktyki-it-sql-data-analytics",
     "title": "PRACTICE",
     "url": "https://praktyki.lodz.pl/en/oferty/praktyki-it-sql-data-analytics"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-zobowiazan-accounts-payable-98422c5c-9788-41d0-883f-e9745ce5f488",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-zobowiazan-accounts-payable-98422c5c-9788-41d0-883f-e9745ce5f488"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-zapewnienia-jakosci-1067eb98-4262-48a8-8cff-18a5f2d2a091",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-zapewnienia-jakosci-1067eb98-4262-48a8-8cff-18a5f2d2a091"
   },
   {
     "id": "https://praktyki.lodz.pl/en/oferty/letnie-praktyki-z-technologiami-ai-rozpocznij-kariere-w-branzy-it-w-vision-development-6b3c3110-a83d-4efe-8cc1-428d16512218",
@@ -15,8 +35,88 @@
     "url": "https://praktyki.lodz.pl/en/oferty/letnie-praktyki-z-technologiami-ai-rozpocznij-kariere-w-branzy-it-w-vision-development"
   },
   {
+    "id": "https://praktyki.lodz.pl/en/oferty/e-commerce",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/e-commerce"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/stazysta-stazystka-w-dziale-obslugi-klienta-i-koordynacji",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/stazysta-stazystka-w-dziale-obslugi-klienta-i-koordynacji"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/financial-internship-in-collections-team-german-speaker",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/financial-internship-in-collections-team-german-speaker"
+  },
+  {
     "id": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-staz-w-dziale-bpa-globalnych-systemow-jakosci-business-planning-analysis-global-quality-systems",
     "title": "INTERNSHIP",
     "url": "https://praktyki.lodz.pl/en/oferty/staz-wakacyjny-w-dziale-staz-w-dziale-bpa-globalnych-systemow-jakosci-business-planning-analysis-global-quality-systems"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/platne-praktyki-wakacyjne-w-fabryce-p-g-gillette-276a7292-0bb4-4f7b-b0d8-623ba469c84f",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/platne-praktyki-wakacyjne-w-fabryce-p-g-gillette-276a7292-0bb4-4f7b-b0d8-623ba469c84f"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-biurze-ksiegowo-konsultingowym",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-biurze-ksiegowo-konsultingowym"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/platne-praktyki-w-oparciu-o-umowe-zlecenie-w-dziale-sprzedazy-odczynnikow-i-materialow-referencyjnych",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/platne-praktyki-w-oparciu-o-umowe-zlecenie-w-dziale-sprzedazy-odczynnikow-i-materialow-referencyjnych"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-elektrycznych",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-elektrycznych"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych-48858340-f4eb-4653-89f7-1edf122de514",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych-48858340-f4eb-4653-89f7-1edf122de514"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktykant-w-zespole-ds-nieruchomosci-komercyjnych",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktykant-w-zespole-ds-nieruchomosci-komercyjnych"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktyki-w-branzy-nieruchomosci-posrednictwo-inwestycje-i-flipowanie",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktyki-w-branzy-nieruchomosci-posrednictwo-inwestycje-i-flipowanie"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/technik-urzadzen-chlodniczych",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/technik-urzadzen-chlodniczych"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/specjalista-ds-logistyki",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/specjalista-ds-logistyki"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/projektant-systemow-sterujacych-i-ukladow-napedowych-2684d402-1c1e-4324-87e3-fa09b381e77c",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/projektant-systemow-sterujacych-i-ukladow-napedowych-2684d402-1c1e-4324-87e3-fa09b381e77c"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/automatyk-programista-plc-hmi-scada-dcs-a4f34296-7a25-4e05-844f-86abad0c3864",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/automatyk-programista-plc-hmi-scada-dcs-a4f34296-7a25-4e05-844f-86abad0c3864"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/programista-java-javascript-40f86eb8-5541-4060-908a-4a7a1890ca8d",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/programista-java-javascript-40f86eb8-5541-4060-908a-4a7a1890ca8d"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/technical-sales-specialist",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/technical-sales-specialist"
   }
 ]
