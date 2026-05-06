@@ -1,7 +1,22 @@
 [
   {
-    "id": "https://praktyki.lodz.pl/en/oferty/automatyk-programista-plc-hmi-scada-dcs-a4f34296-7a25-4e05-844f-86abad0c3864",
+    "id": "https://praktyki.lodz.pl/en/oferty/praktyki-it-sql-data-analytics",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktyki-it-sql-data-analytics"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/programista-java-javascript-40f86eb8-5541-4060-908a-4a7a1890ca8d",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/programista-java-javascript-40f86eb8-5541-4060-908a-4a7a1890ca8d"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/intern-software-engineer-for-ai-2d88629a-46ba-4318-b072-bb7de0e1752f",
+    "title": "HOLIDAY INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/intern-software-engineer-for-ai-2d88629a-46ba-4318-b072-bb7de0e1752f"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/intern-research-engineer-ai",
     "title": "INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/automatyk-programista-plc-hmi-scada-dcs-a4f34296-7a25-4e05-844f-86abad0c3864"
+    "url": "https://praktyki.lodz.pl/en/oferty/intern-research-engineer-ai"
   }
 ]
