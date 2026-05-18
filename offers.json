@@ -105,6 +105,11 @@
     "url": "https://praktyki.lodz.pl/en/oferty/mlodszy-mechanik"
   },
   {
+    "id": "https://praktyki.lodz.pl/en/oferty/internship-in-procurement-with-spanish-portuguese",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/internship-in-procurement-with-spanish-portuguese"
+  },
+  {
     "id": "https://praktyki.lodz.pl/en/oferty/praktykant-w-zespole-ds-nieruchomosci-komercyjnych",
     "title": "PRACTICE",
     "url": "https://praktyki.lodz.pl/en/oferty/praktykant-w-zespole-ds-nieruchomosci-komercyjnych"
@@ -113,10 +118,5 @@
     "id": "https://praktyki.lodz.pl/en/oferty/technik-urzadzen-chlodniczych",
     "title": "PRACTICE",
     "url": "https://praktyki.lodz.pl/en/oferty/technik-urzadzen-chlodniczych"
-  },
-  {
-    "id": "https://praktyki.lodz.pl/en/oferty/projektant-systemow-sterujacych-i-ukladow-napedowych-2684d402-1c1e-4324-87e3-fa09b381e77c",
-    "title": "INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/projektant-systemow-sterujacych-i-ukladow-napedowych-2684d402-1c1e-4324-87e3-fa09b381e77c"
   }
 ]
