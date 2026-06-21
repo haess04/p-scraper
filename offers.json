@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/kerakoll-polska-sp-z-o-o",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/kerakoll-polska-sp-z-o-o"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/biuro-podatkowo-ksiegowe-przyjmie-na-staz-praktyki-studentke",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/biuro-podatkowo-ksiegowe-przyjmie-na-staz-praktyki-studentke"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/platne-praktyki-letnie-automatyk-elektryk",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/platne-praktyki-letnie-automatyk-elektryk"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktyki-w-marketingu",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktyki-w-marketingu"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/golang-developer-praktyki",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/golang-developer-praktyki"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/frontend-developer-angular-praktyki",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/frontend-developer-angular-praktyki"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktyki-it-sql-data-analytics",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktyki-it-sql-data-analytics"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-zobowiazan-accounts-payable-98422c5c-9788-41d0-883f-e9745ce5f488",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-zobowiazan-accounts-payable-98422c5c-9788-41d0-883f-e9745ce5f488"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/letnie-praktyki-z-technologiami-ai-rozpocznij-kariere-w-branzy-it-w-vision-development-6b3c3110-a83d-4efe-8cc1-428d16512218",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/letnie-praktyki-z-technologiami-ai-rozpocznij-kariere-w-branzy-it-w-vision-development-6b3c3110-a83d-4efe-8cc1-428d16512218"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/letnie-praktyki-z-technologiami-ai-rozpocznij-kariere-w-branzy-it-w-vision-development",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/letnie-praktyki-z-technologiami-ai-rozpocznij-kariere-w-branzy-it-w-vision-development"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/platne-praktyki-w-oparciu-o-umowe-zlecenie-w-dziale-sprzedazy-odczynnikow-i-materialow-referencyjnych",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/platne-praktyki-w-oparciu-o-umowe-zlecenie-w-dziale-sprzedazy-odczynnikow-i-materialow-referencyjnych"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-elektrycznych",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-elektrycznych"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych-48858340-f4eb-4653-89f7-1edf122de514",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych-48858340-f4eb-4653-89f7-1edf122de514"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktyki-w-branzy-nieruchomosci-posrednictwo-inwestycje-i-flipowanie",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktyki-w-branzy-nieruchomosci-posrednictwo-inwestycje-i-flipowanie"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktyki-wakacyjne-w-branzy-nieruchomosci-praca-biurowa",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktyki-wakacyjne-w-branzy-nieruchomosci-praca-biurowa"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/technik-urzadzen-chlodniczych",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/technik-urzadzen-chlodniczych"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/programista-java-javascript-40f86eb8-5541-4060-908a-4a7a1890ca8d",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/programista-java-javascript-40f86eb8-5541-4060-908a-4a7a1890ca8d"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-ds-sprzedazy-mapmaker",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-ds-sprzedazy-mapmaker"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-devops-cloud-engineer-mapmaker",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-devops-cloud-engineer-mapmaker"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-frontend-developer-mapmaker",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-frontend-developer-mapmaker"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-mobile-developer-mapmaker",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-mobile-developer-mapmaker"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-ds-marketingu-mapmaker",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-ds-marketingu-mapmaker"
+  }
+]
