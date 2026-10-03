@@ -65,11 +65,6 @@
     "url": "https://praktyki.lodz.pl/en/oferty/opiekun-relacji-i-uslug-specjalista-ds-realizacji-i-utrzymania"
   },
   {
-    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-handlowym-080a85e0-2e50-4fcf-a4fb-d3a04311c0ca",
-    "title": "INTERNSHIP",
-    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-handlowym-080a85e0-2e50-4fcf-a4fb-d3a04311c0ca"
-  },
-  {
     "id": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych-759d4ec9-9080-4848-bfe3-5a390f1e7e71",
     "title": "PRACTICE",
     "url": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych-759d4ec9-9080-4848-bfe3-5a390f1e7e71"
@@ -118,5 +113,10 @@
     "id": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych-48858340-f4eb-4653-89f7-1edf122de514",
     "title": "PRACTICE",
     "url": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych-48858340-f4eb-4653-89f7-1edf122de514"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/projektant-systemow-sterujacych-i-ukladow-napedowych-2684d402-1c1e-4324-87e3-fa09b381e77c",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/projektant-systemow-sterujacych-i-ukladow-napedowych-2684d402-1c1e-4324-87e3-fa09b381e77c"
   }
 ]
