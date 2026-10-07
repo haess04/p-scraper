@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/stazysta-w-dziale-marketingu-abm-jedraszek-sp-j-platny-staz",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/stazysta-w-dziale-marketingu-abm-jedraszek-sp-j-platny-staz"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/student-internship-ux-designer",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/student-internship-ux-designer"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/stazysta-w-dziale-it-c7753628-91eb-4df3-8591-3a88a005e948",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/stazysta-w-dziale-it-c7753628-91eb-4df3-8591-3a88a005e948"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/programista-programistka-gier-unity-game-developer",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/programista-programistka-gier-unity-game-developer"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-flutter-dart",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-flutter-dart"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-ds-specjalista-gis",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-ds-specjalista-gis"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/lte-developer-1-year-internship",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/lte-developer-1-year-internship"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/student-internship-statutory-compliance-academy-6a09b47f-3832-425a-8e89-e2a5b2499743",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/student-internship-statutory-compliance-academy-6a09b47f-3832-425a-8e89-e2a5b2499743"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/it-finance-intern-central-audit-team",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/it-finance-intern-central-audit-team"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/student-internship-statutory-compliance-academy",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/student-internship-statutory-compliance-academy"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/stazysta-automatyki-k-m",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/stazysta-automatyki-k-m"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/stazysta-logistyki-k-m",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/stazysta-logistyki-k-m"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-bhp-i-ochrony-srodowiska-20569a97-36f7-4979-bfed-c92133152435",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-bhp-i-ochrony-srodowiska-20569a97-36f7-4979-bfed-c92133152435"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-produkcji-make-pack",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-dziale-produkcji-make-pack"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/opiekun-relacji-i-uslug-specjalista-ds-realizacji-i-utrzymania",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/opiekun-relacji-i-uslug-specjalista-ds-realizacji-i-utrzymania"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych-759d4ec9-9080-4848-bfe3-5a390f1e7e71",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych-759d4ec9-9080-4848-bfe3-5a390f1e7e71"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-devops-cloud-engineer-mapmaker",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-devops-cloud-engineer-mapmaker"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-frontend-developer-mapmaker",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-frontend-developer-mapmaker"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-ds-marketingu-mapmaker",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktykant-ka-ds-marketingu-mapmaker"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/letnie-praktyki-z-technologiami-ai-rozpocznij-kariere-w-branzy-it-w-vision-development-6b3c3110-a83d-4efe-8cc1-428d16512218",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/letnie-praktyki-z-technologiami-ai-rozpocznij-kariere-w-branzy-it-w-vision-development-6b3c3110-a83d-4efe-8cc1-428d16512218"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/staz-w-biurze-ksiegowo-konsultingowym",
+    "title": "INTERNSHIP",
+    "url": "https://praktyki.lodz.pl/en/oferty/staz-w-biurze-ksiegowo-konsultingowym"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/praktyki-ai-specjalista",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/praktyki-ai-specjalista"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-elektrycznych",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-elektrycznych"
+  },
+  {
+    "id": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych-48858340-f4eb-4653-89f7-1edf122de514",
+    "title": "PRACTICE",
+    "url": "https://praktyki.lodz.pl/en/oferty/student-ka-ds-instalacji-sanitarnych-48858340-f4eb-4653-89f7-1edf122de514"
+  }
+]
